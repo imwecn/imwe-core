@@ -12,4 +12,8 @@ namespace imwe;
 
 class Build {
     
+    public static function module($module){
+        echo 'yes';
+    }
+    
 }
