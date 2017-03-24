@@ -1,0 +1,16 @@
+{
+    "name": "imwecn/imwe-core",
+    "description": "The imwe-core Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "guojoa",
+            "email": "guojoa@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "imwe": "src"
+        }
+    }
+}
