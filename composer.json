@@ -2,12 +2,6 @@
     "name": "imwecn/imwe-core",
     "description": "The imwe-core Package",
     "license": "Apache-2.0",
-    "repositories": [  
-        {  
-            "type": "git",  
-            "url":  "https://github.com/imwecn/imwe-core.git"  
-        }  
-    ],
     "authors": [
         {
             "name": "guojoa",
@@ -16,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "imwe": "src"
+            "imwe\\": "src"
         }
     }
 }
